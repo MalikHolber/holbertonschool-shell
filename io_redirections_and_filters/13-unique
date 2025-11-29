@@ -1,4 +1,2 @@
 #!/bin/bash
 sort --ignore-case | uniq -u
-chmod +x 13-unique
-cat list_1 | ./13-unique
